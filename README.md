@@ -1,28 +1,33 @@
-# 🌲 Cypress, do Zero à Nuvem ☁️
+# Documentação do projeto
 
-👋 Seja bem-vindo(a)!
+Um bom projeto de testes automatizados deve possuir um mínimo de documentação, para que quem está chegando, possa contribuir.
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
+Aqui vai uma lista do que valorizo em uma documentação:
 
-## O que você vai aprender?
+- Uma breve descrição do que trata o projeto
+- Pré-requisitos (tais como Node.js, npm, git, etc.)
+- Passos para instalação das dependências
+- Passos para rodar os testes
+- Qualquer outra informação que for pertinente
 
-- Como configurar um projeto Cypress do zero
-- Como visitar páginas locais e remotas
-- Como lidar com os elementos mais comuns encontrados em aplicações web
-- Como testar upload de arquivos
-- Como realizar as mais diversas verificações de resultados esperados
-- Como criar comandos customizados
-- Como lidar com links que abrem em outra aba do navegador
-- Como rodar testes simulando as dimensões de um dispositivo móvel
-- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
-- Como criar uma documentação mínima para seu projeto de testes automatizados
-- Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
-- Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
+Em vários dos meus projetos no [GitHub](https://github.com/wlsf82), você vai encontrar esse padrão.
 
-## Vamos começar?
+Fique a vontade para copiar algum dos meus arquivos [`README.md`](https://github.com/wlsf82/cy-data-test/blob/main/README.md#cy-data-test) e adaptar para o projeto do curso, ou para qualquer outro de seus projetos.
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+## Exercício
+
+Crie uma documentação para o projeto de teste automatizado do curso e envie-a para o GitHub.
+
+> 👨‍🏫 Dessa forma, você pode mostrar ao mundo que se preocupa não apenas com códigos bem escritos, mas também com códigos bem documentados.
+
+## Mostre ao mundo o que você aprendeu
+
+Para mostrar à sua rede profissional o que você aprendeu até agora, poste o seguinte no LinkedIn.
+
+> Estou fazendo o curso "Cypress, do Zero à Nuvem" da escola online Talking About Testing, onde aprendi a escrever uma documentação de projeto concisa. #TalkingAboutTesting #EscolaTAT #CypressDoZeroANuvem #Cypress
+
+**Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho).
 
 ___
 
-Este é um curso da **Escola Talking About Testing**.
+Parabéns! Vamos para a [lição 10](./10.md) para aprender como configurar um _workflow_ de integração contínua que executa os testes sempre que ocorrem alterações no código da aplicação (ou dos testes).
